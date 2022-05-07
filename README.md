@@ -1,1 +1,1 @@
-# go-test-sync
+# learn-go-with-test
